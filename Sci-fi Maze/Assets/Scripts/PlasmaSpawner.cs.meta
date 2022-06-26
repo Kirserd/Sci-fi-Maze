@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 675955406f8472047a5bf346a1e4b3f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Plasma: {fileID: 5013045198280639492, guid: d284f2dc9a28a6c42a250cc9447ada84,
+      type: 3}
+  - plasmaBulletMovement: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
