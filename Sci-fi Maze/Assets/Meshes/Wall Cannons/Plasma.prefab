@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6911cdde2531bf047b3575100c4aeb83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Direction: {x: -1, y: 0, z: 0}
+  Direction: {x: 1, y: 0, z: 0}
 --- !u!114 &-1650825381204613309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113,6 +113,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b702ac71c905a49478902d89e068b13f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Explosion: {fileID: 6905999666087168605, guid: 5af1f02e7fa219c4782f3844707c030a,
+    type: 3}
 --- !u!54 &-3980117363218640832
 Rigidbody:
   m_ObjectHideFlags: 0

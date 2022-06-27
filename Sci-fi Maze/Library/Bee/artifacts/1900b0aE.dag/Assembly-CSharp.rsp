@@ -371,7 +371,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Etc/TutorialInfo/Scripts/Readme.cs"
 "Assets/Scripts/DestroyOnCollision.cs"
+"Assets/Scripts/FliyngEnemyAI.cs"
+"Assets/Scripts/LaserLightMovement.cs"
 "Assets/Scripts/LaserMovement.cs"
+"Assets/Scripts/ParticleActualLifeTime.cs"
 "Assets/Scripts/PlasmaBulletMovement.cs"
 "Assets/Scripts/PlasmaSpawner.cs"
 -langversion:9.0
