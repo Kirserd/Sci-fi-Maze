@@ -372,11 +372,14 @@
 "Assets/Etc/TutorialInfo/Scripts/Readme.cs"
 "Assets/Scripts/DestroyOnCollision.cs"
 "Assets/Scripts/FliyngEnemyAI.cs"
+"Assets/Scripts/GlobalManager.cs"
+"Assets/Scripts/HpVisualisator.cs"
 "Assets/Scripts/LaserLightMovement.cs"
 "Assets/Scripts/LaserMovement.cs"
 "Assets/Scripts/ParticleActualLifeTime.cs"
 "Assets/Scripts/PlasmaBulletMovement.cs"
 "Assets/Scripts/PlasmaSpawner.cs"
+"Assets/Scripts/TimeVisualisator.cs"
 -langversion:9.0
 
 /deterministic
